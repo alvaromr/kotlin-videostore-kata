@@ -37,12 +37,6 @@ You owed 10.0
 You earned 4 frequent renter points
 ```
 
-
-
-<i>You owed 10.0</i>   
-<i>You earned 4 frequent renter points</i>
-
-
 ### Additional requirement:
 
 The video store owner changed his mind and asked to have the receipt also in HTML
